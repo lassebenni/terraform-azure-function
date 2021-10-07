@@ -5,5 +5,5 @@ variable "location" {
 
 variable "storageaccount" {
   description = "Name of the storage account"
-  default     = "lbenninga-function-app-storage"
+  default     = "lbenningafunctionapp"
 }
